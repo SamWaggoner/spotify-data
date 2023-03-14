@@ -1,0 +1,2 @@
+# Ignore Spotify API keys
+*.env
